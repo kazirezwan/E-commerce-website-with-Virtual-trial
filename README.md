@@ -1,6 +1,6 @@
-# Astore - Ecommerce website
+# Design and Implementation of E-Commerce Site with Modern Approach
 
-It is clone of Astore Ecommerce website with all basic functionalities of Ecommerce website.
+
 
 ## Technologies Used
 
